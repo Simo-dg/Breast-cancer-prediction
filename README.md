@@ -4,7 +4,6 @@
 - [Dataset](#dataset)
 - [Model](#model)
 - [Results](#results)
-- [Feature Importance](#feature-importance)
 
 ---
 
